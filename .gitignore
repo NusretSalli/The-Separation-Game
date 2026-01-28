@@ -1,3 +1,7 @@
 # virtual environment
 .venv/
-prompt.md
+
+# python cache
+__pycache__/
+
+plan.md
